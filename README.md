@@ -6,3 +6,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 node app.js
 ```
+
+Observação: na pagina de arquivos, aperte "." para abrir o web editor github
